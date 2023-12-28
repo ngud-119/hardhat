@@ -4,10 +4,14 @@ This project demonstrates a basic Hardhat use case. It comes with a sample contr
 
 Try running some of the following tasks:
 
-```shell
+
 npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
+
+<h1>Testing contracts</h1>
+  <p>npx hardhat test</p>
+  <p>REPORT_GAS=true npx hardhat test</p>
+<h1>Deploying your contracts</h1>
+  <p>npx hardhat node </p>
+  <p>npx hardhat run scripts/deploy.ts</p>
+  <p>You can deploy in local with hardhat: This is command <h3>npx hardhat run --network localhost scripts/deploy.ts</h3></p>
+
