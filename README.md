@@ -14,4 +14,7 @@ npx hardhat help
   <p>npx hardhat node </p>
   <p>npx hardhat run scripts/deploy.ts</p>
   <p>You can deploy in local with hardhat: This is command <h3>npx hardhat run --network localhost scripts/deploy.ts</h3></p>
-
+<h1>Verifying your contracts</h1>
+ <p>You can get Sepolia eth</p>
+ <p>https://sepoliafaucet.com/</p>
+ <p>To be fair to all developers, You only get 0.5 Sepolia ETH every 24 hours.<p>
