@@ -1,3 +1,5 @@
+import { ethers } from "hardhat";
+
 const { expect } = require("chai");
 const hre = require("hardhat");
 const {
