@@ -1,4 +1,5 @@
 import { HardhatUserConfig } from "hardhat/config";
+import "tsconfig-paths/register";
 import "@nomicfoundation/hardhat-toolbox";
 require("dotenv").config()
 
